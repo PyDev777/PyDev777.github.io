@@ -1,2 +1,1 @@
-# pydev777.github.io
-My Promo Page
+# My Promo Page
